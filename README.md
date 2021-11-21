@@ -3,6 +3,8 @@
 ### Announcements
 
 #### Live at Head
+this is a first change
+This is a second change
 
 GoogleTest now follows the
 [Abseil Live at Head philosophy](https://abseil.io/about/philosophy#upgrade-support).
@@ -32,7 +34,6 @@ projects. These were so closely related that it makes sense to maintain and
 release them together.
 
 ### Getting Started
-
 See the [GoogleTest User's Guide](https://google.github.io/googletest/) for
 documentation. We recommend starting with the
 [GoogleTest Primer](https://google.github.io/googletest/primer.html).
